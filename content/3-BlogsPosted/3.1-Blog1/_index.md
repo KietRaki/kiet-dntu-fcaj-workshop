@@ -24,7 +24,7 @@ The architecture I built consists of four main components:
 
 S3 is used to store the input file. When a CSV file is uploaded to a specific folder in S3, S3 generates an event that triggers Lambda. Lambda then reads the CSV file, processes each row and checks conditions such as whether product_id exists, whether price is a valid number and whether stock is non-negative. Valid records are written to DynamoDB, while invalid records are skipped and warning information is written to CloudWatch Logs.
 
-![Import from S3 to DynamoDB](/images/3-BlogsPosted/blog1/Serverless-Pipeline_Import-from-S3-to-DynamoDB.drawio.png)
+{{< img src="images/3-BlogsPosted/blog1/Serverless-Pipeline_Import-from-S3-to-DynamoDB.drawio.png" alt="Import from S3 to Dynamo" >}}
 
 **2. Preparing data in Amazon S3**
 

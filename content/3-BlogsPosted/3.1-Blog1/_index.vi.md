@@ -27,7 +27,7 @@ Kiến trúc mình xây dựng gồm bốn thành phần chính:
 
 S3 đóng vai trò lưu trữ file đầu vào. Khi file CSV được upload vào một thư mục cụ thể trong S3, S3 sẽ phát sinh sự kiện và kích hoạt Lambda. Lambda sau đó đọc file CSV, xử lý từng dòng dữ liệu và kiểm tra một số điều kiện như product_id phải tồn tại, price phải là số hợp lệ và stock không được âm. Những record hợp lệ sẽ được ghi vào DynamoDB, còn những record không hợp lệ sẽ được bỏ qua và ghi thông tin cảnh báo vào CloudWatch Logs.
 
-![Import from S3 to DynamoDB](/images/3-BlogsPosted/blog1/Serverless-Pipeline_Import-from-S3-to-DynamoDB.drawio.png)
+{{< img src="images/3-BlogsPosted/blog1/Serverless-Pipeline_Import-from-S3-to-DynamoDB.drawio.png" alt="Import từ S3 tới Dynamo" >}}
 
 **2. Chuẩn bị dữ liệu trên Amazon S3**
 
