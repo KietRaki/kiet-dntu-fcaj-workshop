@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
+baseURL = "https://kietraki.github.io/kiet-dntu-fcaj-workshop/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
@@ -60,3 +60,7 @@ weight = 20
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
