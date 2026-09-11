@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-<!-- {{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}} -->
-
 Năm nay em - Nguyễn Vũ Tuấn Kiệt sẽ thực tập tại chương trình AWS FCAJ Workforce trong vòng 6 tháng, dưới đây là khoảng thời gian mà em đã làm việc:
 
 **Tuần 1:** [Công việc tuần 1](1.1-week1/)

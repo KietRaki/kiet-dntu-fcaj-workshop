@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-<!-- {{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}} -->
-
 This year, I - Nguyen Vu Tuan Kiet will intern in the AWS FCAJ Workforce program for 6 months, below is the period I have worked:
 
 **Week 1:** [Week 1 tasks](1.1-week1/)
