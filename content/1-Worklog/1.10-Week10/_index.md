@@ -8,6 +8,10 @@ pre: " <b> 1.10. </b> "
 
 ### Week 10 Objectives:
 
+* Practice building a Data Lake using S3, Glue DataBrew and Athena.
+* Improving skills in monitoring with CloudWatch and Grafana.
+* Optimizing EC2 costs with Lambda.
+
 ### Tasks completed this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |:---:|---|:---:|:---:|---|

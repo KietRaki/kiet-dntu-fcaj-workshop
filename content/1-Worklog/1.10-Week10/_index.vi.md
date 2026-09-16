@@ -8,6 +8,10 @@ pre: " <b> 1.10. </b> "
 
 ### Mục tiêu tuần 10:
 
+* Thực hành xây dựng Data Lake với S3, Glue DataBrew và Athena.
+* Nâng cao kỹ năng giám sát với CloudWatch và Grafana.
+* Tối ưu chi phí EC2 bằng Lambda.
+
 ### Các công việc đã làm trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |:---:|---|:---:|:---:|---|
