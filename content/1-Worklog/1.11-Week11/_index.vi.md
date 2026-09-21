@@ -8,6 +8,9 @@ pre: " <b> 1.11. </b> "
 
 ### Mục tiêu tuần 11:
 
+* Thực hành quản lý tài nguyên AWS bằng Tags, Resource Groups và CLI.
+* Triển khai công việc được giao cho dự án RakiBookery.
+
 ### Các công việc đã làm trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |:---:|---|:---:|:---:|---|

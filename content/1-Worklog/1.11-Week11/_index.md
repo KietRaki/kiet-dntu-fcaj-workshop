@@ -8,6 +8,9 @@ pre: " <b> 1.11. </b> "
 
 ### Week 11 Objectives:
 
+* Practice managing AWS resources using Tags, Resource Groups and the CLI.
+* Deploy assigned tasks for the RakiBookery project.
+
 ### Tasks completed this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |:---:|---|:---:|:---:|---|
