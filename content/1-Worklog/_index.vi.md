@@ -30,9 +30,9 @@ Năm nay em - Nguyễn Vũ Tuấn Kiệt sẽ thực tập tại chương trình
 
 **Tuần 11:** [Công việc tuần 11](1.11-week11/)
 
-<!-- **Tuần 12:** [Công việc tuần 12](1.12-week12/)
+**Tuần 12:** [Công việc tuần 12](1.12-week12/)
 
-**Tuần 13:** [Công việc tuần 13](1.13-week13/)
+<!-- **Tuần 13:** [Công việc tuần 13](1.13-week13/)
 
 **Tuần 14:** [Công việc tuần 14](1.14-week14/)
 
