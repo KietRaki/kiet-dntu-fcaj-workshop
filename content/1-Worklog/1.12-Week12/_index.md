@@ -8,6 +8,8 @@ pre: " <b> 1.12. </b> "
 
 ### Week 12 Objectives:
 
+* This is a text to test git push
+
 ### Tasks completed this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |:---:|---|:---:|:---:|---|

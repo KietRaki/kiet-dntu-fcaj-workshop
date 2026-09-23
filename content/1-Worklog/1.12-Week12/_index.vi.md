@@ -8,6 +8,8 @@ pre: " <b> 1.12. </b> "
 
 ### Mục tiêu tuần 12:
 
+* Đây là văn bản để kiểm tra git push
+
 ### Các công việc đã làm trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |:---:|---|:---:|:---:|---|
