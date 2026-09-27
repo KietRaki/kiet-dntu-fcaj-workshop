@@ -6,31 +6,14 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-This year, I - Nguyen Vu Tuan Kiet will intern in the AWS FCAJ Workforce program for 6 months, below is the period I have worked:
+In the internship program, I will explore and practice AWS services related to Data, along with the services that I find interesting.
 
-**Week 1:** [Week 1 tasks](1.1-week1/)
-
-**Week 2:** [Week 2 tasks](1.2-week2/)
-
-**Week 3:** [Week 3 tasks](1.3-week3/)
-
-**Week 4:** [Week 4 tasks](1.4-week4/)
-
-**Week 5:** [Week 5 tasks](1.5-week5/)
-
-**Week 6:** [Week 6 tasks](1.6-week6/)
-
-**Week 7:** [Week 7 tasks](1.7-week7/)
-
-**Week 8:** [Week 8 tasks](1.8-week8/)
-
-**Week 9:** [Week 9 tasks](1.9-week9/)
-
-**Week 10:** [Week 10 tasks](1.10-week10/)
-
-**Week 11:** [Week 11 tasks](1.11-week11/)
-
-**Week 12:** [Week 12 tasks](1.12-week12/)
+|  |  |  |  |
+|---|---|---|---|
+| **Week 1:** [Week 1 tasks](1.1-week1/) | **Week 5:** [Week 5 tasks](1.5-week5/) | **Week 9:** [Week 9 tasks](1.9-week9/) |  |
+| **Week 2:** [Week 2 tasks](1.2-week2/) | **Week 6:** [Week 6 tasks](1.6-week6/) | **Week 10:** [Week 10 tasks](1.10-week10/) |  |
+| **Week 3:** [Week 3 tasks](1.3-week3/) | **Week 7:** [Week 7 tasks](1.7-week7/) | **Week 11:** [Week 11 tasks](1.11-week11/) |  |
+| **Week 4:** [Week 4 tasks](1.4-week4/) | **Week 8:** [Week 8 tasks](1.8-week8/) | **Week 12:** [Week 12 tasks](1.12-week12/) |  |
 
 <!-- **Week 13:** [Week 13 tasks](1.13-week13/)
 
