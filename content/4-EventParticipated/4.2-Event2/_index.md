@@ -1,128 +1,60 @@
 ---
 title: "Event 2"
-date: 2024-01-01
-weight: 1
+date: 2026-10-02
+weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-<!-- {{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}} -->
+# Summary report: “Fireside chat with Dr. Werner Vogels: Navigating the Future of Cloud & AI in Vietnam”
 
-## None
+{{< img src="images/4-EventParticipated/event2/GroupPhoto_Event2.jpg" alt="Group Photo of Event 2" >}}
 
-<!-- # Summary Report: “GenAI-powered App-DB Modernization workshop”
+## Event objectives
 
-### Event Objectives
+- Learn about the perspective of Dr. Werner Vogels, CTO of Amazon, on the future of Cloud Computing and Artificial Intelligence in Vietnam.
+- Explore how Cloud and AI are changing the way businesses develop products, operate systems and innovate with technology.
+- Learn about the experience of building and operating technology systems at a global scale, as well as emerging technology trends that are shaping the future.
+- Discuss how developers, engineers, startups and businesses can leverage Cloud and AI to solve real-world problems and create new products.
+- Learn more about the opportunities for AI development in Vietnam, especially as Vietnam is accelerating the development of Cloud infrastructure, AI skills and the technology ecosystem.
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+## Speakers
 
-### Speakers
+- Dr. Werner Vogels - Chief Technology Officer of Amazon.
+- Moderator / Host.
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+## Key highlights
 
-### Key Highlights
+### Cloud computing as the Foundation for AI
 
-#### Identifying the drawbacks of legacy application architecture
+- Cloud is not only a platform that provides compute and storage, but also a foundation for businesses to build and scale AI applications.
+- Access to Cloud infrastructure allows startups and developers to experiment, develop and scale products without having to build the entire physical infrastructure themselves.
+- In Vietnam, AWS continues to expand its Cloud infrastructure to support requirements for low latency, data residency and AI workloads. AWS Hanoi Local Zone has been operational since June 2026.
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+### The rise of Agentic AI
 
-#### Transitioning to modern application architecture – Microservices
+- One of the key developments in Cloud and AI today is the shift from AI that only answers questions or assists users to Agentic AI, which can perform multiple steps to complete a task.
+- Agentic AI is opening up new ways of developing software, where AI can assist developers throughout the process of building, testing and operating systems.
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+### AI requires human judgment
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+- AI can generate code and content faster, but humans still need to review, evaluate and make decisions.
+- One of the important skills in the AI era is not only knowing how to program, but also being able to identify problems, evaluate AI-generated results and know when to trust AI or when to verify its output.
 
-#### Domain-Driven Design (DDD)
+### Building for failure and resilience
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+- An important message from Dr. Werner Vogels is that systems should be designed with failure and resilience in mind from the beginning.
+- Instead of assuming that systems will always operate perfectly, engineers need to prepare for failures and build systems that can continue operating when a component fails.
+- This mindset applies not only to software architecture but also has value in how businesses are built and developed.
 
-#### Event-Driven Architecture
+### Innovation and the future of technology
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+- Cloud and AI technologies are reducing the gap between ideas and real-world products.
+- A small team of developers in Vietnam can now access advanced AI technologies and platforms to build products for both domestic and international markets.
+- The Fireside Chat gave participants additional perspectives on how Cloud, AI and human creativity can work together to create new products and solutions.
 
-#### Compute Evolution
+### Personal lessons
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
-
-#### Amazon Q Developer
-
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
-
-### Key Takeaways
-
-#### Design Mindset
-
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
-
-#### Technical Architecture
-
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
-
-#### Modernization Strategy
-
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
-
-### Applying to Work
-
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
-
-### Event Experience
-
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
-
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
-
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
-
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
-
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
-
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
-
-#### Some event photos
-*Add your event photos here*  
-
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration. -->
+- The event helped me better understand the relationship between Cloud, AI and Software Development.
+- I realized that learning Cloud is not only about focusing on individual AWS services, but also about understanding how they become a foundation for AI applications, scalable systems and modern software development.
+- In particular, the development of Agentic AI shows that the role of developers is changing, from simply writing code to directing, reviewing and using AI to build systems more effectively.

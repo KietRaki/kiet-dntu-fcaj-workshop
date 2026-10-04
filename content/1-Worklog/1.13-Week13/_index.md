@@ -8,6 +8,9 @@ pre: " <b> 1.13. </b> "
 
 ### Week 13 Objectives:
 
+* Participate in the registered event.
+* Learn the fundamentals of Python.
+
 ### Tasks completed this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |:---:|---|:---:|:---:|---|
@@ -15,12 +18,17 @@ pre: " <b> 1.13. </b> "
 | 3 | - Attend **AWS Cloud and AI Day Hanoi** event | 29/09/2026 | 29/09/2026 |  |
 | 4 |  | 30/09/2026 | 30/09/2026 |  |
 | 5 | - Learn **Introduction to Python** on Codefinity<br>&emsp;+ Getting Started.<br>&emsp;+ Variables and Types.<br>&emsp;+ Conditional Statements.<br>&emsp;+ Other Data types. | 01/10/2026 | 01/10/2026 | [Codefinity](https://codefinity.com/) |
-| 6 | - Attend **Fireside chat with Dr. Werner Vogels** event<br>- Learn **Introduction to Python** on Codefinity<br>&emsp;+ Loops. | 02/10/2026 | 02/10/2026 |  |
+| 6 | - Attend **Fireside chat with Dr. Werner Vogels** event<br>- Learn **Introduction to Python** on Codefinity<br>&emsp;+ Loops.<br>&emsp;+ Functions. | 02/10/2026 | 02/10/2026 |  |
 
 ### Week 13 Achievements:
+
+&emsp;◉ Tuesday:
+<br>&emsp;&emsp;○ Explored key event topics, including AWS Cloud, AI, Agentic AI, Data Analytics, Cloud Migration and Modern Applications.
+<br>&emsp;&emsp;○ Gained insights into AWS technology trends.
 
 &emsp;◉ Thursday:
 <br>&emsp;&emsp;○ Completed the first 4 sections of the Introduction to Python course, covering Python fundamentals, Variables, Conditions and Data Structures.
 
 &emsp;◉ Friday:
-<br>&emsp;&emsp;○ Complete the 'Loops' section of the Introduction to Python course, covering the use of `for` and `while` loops, the `range` function, iterating over indexes and nested loops.
+<br>&emsp;&emsp;○ The event helped me better understand the relationship between Cloud, AI and Software Development.
+<br>&emsp;&emsp;○ Complete the 'Loops' section of the Introduction to Python course, covering the use of `for` and `while` loops, the `range` function, iterating over indexes, nested loops and functions with/without return results.
