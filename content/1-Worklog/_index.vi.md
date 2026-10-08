@@ -15,26 +15,12 @@ Tại chương trình thực tập, em sẽ tìm hiểu và thực hành về c�
 | **Tuần 3:** [Công việc tuần 3](1.3-week3/) | **Tuần 7:** [Công việc tuần 7](1.7-week7/) | **Tuần 11:** [Công việc tuần 11](1.11-week11/) |  |
 | **Tuần 4:** [Công việc tuần 4](1.4-week4/) | **Tuần 8:** [Công việc tuần 8](1.8-week8/) | **Tuần 12:** [Công việc tuần 12](1.12-week12/) |  |
 
-<!-- **Tuần 13:** [Công việc tuần 13](1.13-week13/)
+|  |  |  |  |
+|---|---|---|---|
+| **Tuần 13:** [Công việc tuần 13](1.13-week13/) |  |  |
+| **Tuần 14:** [Công việc tuần 14](1.14-week14/) |  |  |
 
-**Tuần 14:** [Công việc tuần 14](1.14-week14/)
-
-**Tuần 15:** [Công việc tuần 15](1.15-week15/)
-
-**Tuần 16:** [Công việc tuần 16](1.16-week16/)
-
-**Tuần 17:** [Công việc tuần 17](1.17-week17/)
-
-**Tuần 18:** [Công việc tuần 18](1.18-week18/)
-
-**Tuần 19:** [Công việc tuần 19](1.19-week19/)
-
-**Tuần 20:** [Công việc tuần 20](1.20-week20/)
-
-**Tuần 21:** [Công việc tuần 21](1.21-week21/)
-
-**Tuần 22:** [Công việc tuần 22](1.22-week22/)
-
-**Tuần 23:** [Công việc tuần 23](1.23-week23/)
-
-**Tuần 24:** [Công việc tuần 24](1.24-week24/) -->
+<!-- | **Tuần 15:** [Công việc tuần 15](1.15-week15/) | **Tuần 19:** [Công việc tuần 19](1.19-week19/) | **Tuần 23:** [Công việc tuần 23](1.23-week23/) |
+| **Tuần 16:** [Công việc tuần 16](1.16-week16/) | **Tuần 20:** [Công việc tuần 20](1.20-week20/) | **Tuần 24:** [Công việc tuần 24](1.24-week24/) |
+**Tuần 17:** [Công việc tuần 17](1.17-week17/) | **Tuần 21:** [Công việc tuần 21](1.21-week21/) |
+**Tuần 18:** [Công việc tuần 18](1.18-week18/) | **Tuần 22:** [Công việc tuần 22](1.22-week22/) | -->
