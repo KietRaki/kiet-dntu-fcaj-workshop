@@ -19,5 +19,5 @@ Tại chương trình thực tập, em sẽ tìm hiểu và thực hành về c�
 |---|---|---|---|
 | **Tuần 13:** [Công việc tuần 13](1.13-week13/) |  |  |
 | **Tuần 14:** [Công việc tuần 14](1.14-week14/) |  |  |
-| **Tuần 14:** [Công việc tuần 15](1.15-week15/) |  |  |
+| **Tuần 15:** [Công việc tuần 15](1.15-week15/) |  |  |
 
