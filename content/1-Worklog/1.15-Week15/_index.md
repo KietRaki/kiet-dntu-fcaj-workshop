@@ -8,6 +8,9 @@ pre: " <b> 1.15. </b> "
 
 ### Week 15 Objectives:
 
+* Deploy the RakiBookery website on AWS Elastic Beanstalk.
+* Practice Static website hosting with Amazon S3 and CloudFront lab.
+
 ### Tasks completed this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |:---:|---|:---:|:---:|---|

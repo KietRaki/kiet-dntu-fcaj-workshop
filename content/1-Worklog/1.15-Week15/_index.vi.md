@@ -8,6 +8,9 @@ pre: " <b> 1.15. </b> "
 
 ### Mục tiêu tuần 15:
 
+* Triển khai website RakiBookery trên AWS Elastic Beanstalk.
+* Thực hành lab Hosting website tĩnh với Amazon S3 và CloudFront.
+
 ### Các công việc đã làm trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |:---:|---|:---:|:---:|---|
