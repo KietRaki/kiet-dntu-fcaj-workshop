@@ -8,6 +8,9 @@ pre: " <b> 1.14. </b> "
 
 ### Mục tiêu tuần 14:
 
+* Nắm vững các kiểu dữ liệu cơ bản trong Python.
+* Thực hành các phép toán, so sánh, xử lý chuỗi, chuyển đổi kiểu dữ liệu và sử dụng giá trị None.
+
 ### Các công việc đã làm trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |:---:|---|:---:|:---:|---|

@@ -8,6 +8,9 @@ pre: " <b> 1.5. </b> "
 
 ### Mục tiêu tuần 5:
 
+* Nắm vững các công cụ quản lý và phát triển AWS như SDK, CloudShell, CloudFormation, CDK và AWS Toolkit for VS Code.
+* Hiểu mô hình trách nhiệm chia sẻ và cách phân quyền, bảo mật khi sử dụng dịch vụ AWS.
+
 ### Các công việc đã làm trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |:---:|---|:---:|:---:|---|

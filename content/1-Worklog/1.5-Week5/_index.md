@@ -8,6 +8,9 @@ pre: " <b> 1.5. </b> "
 
 ### Week 5 Objectives:
 
+* Understand AWS management and development tools such as SDK, CloudShell, CloudFormation, CDK and AWS Toolkit for VS Code.
+* Learn the AWS Shared Responsibility Model and how to manage permissions and security when using AWS services.
+
 ### Tasks completed this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |:---:|---|:---:|:---:|---|
