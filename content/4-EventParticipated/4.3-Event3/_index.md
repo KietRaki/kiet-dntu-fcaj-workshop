@@ -8,7 +8,7 @@ pre: " <b> 4.3. </b> "
 
 # Summary Report: “FCAJ - Community Day 31/10”
 
-{{< img src="images/4-EventParticipated/event2/GroupPhoto_Event2.jpg" alt="Group Photo of Event 2" >}}
+{{< img src="images/4-EventParticipated/event3/GroupPhoto_Event3.jpg" alt="Group Photo of Event 3" >}}
 
 ## Event Objectives
 
@@ -32,27 +32,26 @@ The event aimed to introduce effective AWS learning paths, explore the applicati
 
 ## Key Highlights
 
-1\. Learning AWS and Building a Learning Roadmap for Beginners
+### Learning AWS and Building a Learning Roadmap for Beginners
 
 Tran Minh Tuan introduced three learning platforms: AWS Study Group, AWS Skill Builder and AWS Builder Center. AWS Skill Builder provides theoretical courses and structured learning paths, AWS Study Group offers hands-on labs, while AWS Builder Center helps learners connect with the community and share technical knowledge. He recommended a learning process that includes studying theory, practicing through labs, documenting knowledge and building personal projects. He also emphasized the importance of cleaning up AWS resources after completing labs to avoid unexpected costs.
 
-2\. Applying AI Agents to the Software Development Lifecycle
+### Applying AI Agents to the Software Development Lifecycle
 
 Henry Duc Bui shared practical experience in building a Software Factory by integrating AI Agents into the entire Software Development Lifecycle (SDLC). A team of only 5-6 members successfully processed and merged nearly 3,000 Merge Requests in one month, achieving three times the previous month's productivity. Key practices included involving AI in feature discussions, using Divergent Prompting to explore different solutions and automating code reviews and testing. This presentation demonstrated how AI can significantly improve development productivity and automate technical tasks.
 
-3\. Building Real-World Applications with AWS Serverless Architecture
+### Building Real-World Applications with AWS Serverless Architecture
 
 Phuc Khang introduced a real-time multiplayer turn-based card game developed during his internship at First Cloud Journey. The system used AWS Lambda for backend logic, DynamoDB for data storage, SQS and EventBridge for asynchronous event management and Cognito with API Gateway/WebSocket for user authentication and real-time communication. He also discussed practical mistakes, including excessive requests caused by using SQS for countdown management, insufficient IAM permissions management and missing Lambda version control. These experiences emphasized the importance of security and Infrastructure as Code (IaC) using AWS CDK and CloudFormation.
 
-4\. Introducing AWS Lambda Web Function and Modern Serverless Architecture
+### Introducing AWS Lambda Web Function and Modern Serverless Architecture
 
 Thinh Nguyen discussed the limitations of traditional AWS Lambda, including Cold Starts, API Gateway dependency and execution-time-based billing. He then introduced Lambda Web Function, which supports Docker container packaging, handles up to 128 concurrent requests per instance and integrates directly with CloudFront through Origin Access Control (OAC). According to the presentation, CPU processing-time-based billing can reduce costs by approximately 40-70%. He also demonstrated a practical MBTI quiz application to illustrate this architecture.
 
-5\. Building Asynchronous Systems with Amazon SQS
+### Building Asynchronous Systems with Amazon SQS
 
 Luong Cam Dao explained the differences between synchronous and asynchronous processing. Instead of making users wait for an AI service to complete a request, Amazon SQS can act as an intermediate message queue. The API service sends jobs to the queue and immediately returns a Pending status, while the AI service processes those jobs independently. He introduced Standard Queue and FIFO Queue, along with important mechanisms such as Visibility Timeout, Heartbeat, Long Polling and Dead Letter Queue (DLQ). The presentation also demonstrated how Amazon SNS and SQS can work together using the Fan-out pattern to distribute messages to multiple queues.
 
-6\. Open-Source Contribution and Maintaining Consistency
+### Open-Source Contribution and Maintaining Consistency
 
 Hung Tran shared his experience contributing to Open-Source projects, particularly AWS CDK, Terraform and Pulumi. He encouraged beginners to start with issues labeled Good First Issue or Ready to Implement, create smaller Pull Requests and remain patient throughout the review process. He recommended spending approximately 15-30 minutes every day contributing to Open-Source projects. He also emphasized developing a proactive mindset by identifying and fixing issues directly in the source code instead of waiting for service providers to introduce new features or provide official support.
-

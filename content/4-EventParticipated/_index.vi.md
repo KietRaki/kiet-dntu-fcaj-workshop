@@ -10,7 +10,7 @@ pre: " <b> 4. </b> "
 
 Trong quá trình thực tập, em đã tham gia 3 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
 
-### [Event 1](4.1-Event1/)
+### [Sự kiện 1](4.1-Event1/)
 &emsp;**Tên sự kiện:** Hà Nội AWS Cloud và AI Day.
 
 &emsp;**Thời gian:** 09:00 ngày 29/09/2026.
@@ -21,7 +21,7 @@ Trong quá trình thực tập, em đã tham gia 3 events, với mỗi event là
 
 ---
 
-### [Event 2](4.2-Event2/)
+### [Sự kiện 2](4.2-Event2/)
 &emsp;**Tên sự kiện:** Buổi trò chuyện thân mật cùng tiến sĩ Werner Vogels: Định hướng tương lai của Điện toán đám mây và AI tại Việt Nam.
 
 &emsp;**Thời gian:** 08:30 ngày 02/10/2026.
@@ -32,7 +32,7 @@ Trong quá trình thực tập, em đã tham gia 3 events, với mỗi event là
 
 ---
 
-### [Event 3](4.3-Event3/)
+### [Sự kiện 3](4.3-Event3/)
 &emsp;**Tên sự kiện:** FCAJ - Community Day 31/10.
 
 &emsp;**Thời gian:** 09:00 ngày 31/10/2026.
