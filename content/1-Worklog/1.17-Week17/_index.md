@@ -8,6 +8,9 @@ pre: " <b> 1.17. </b> "
 
 ### Week 17 Objectives:
 
+* Complete the deployment of the RakiBookery project on AWS by connecting the PHP application to Amazon RDS MySQL through ECS Fargate.
+* Practicing Docker, ECR, Secrets Manager and CloudWatch to deploy, manage and test the website.
+
 ### Tasks completed this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |:---:|---|:---:|:---:|---|
@@ -16,6 +19,7 @@ pre: " <b> 1.17. </b> "
 | 4 | - Check AWS resources before connecting the PHP web to RDS<br>&emsp;+ Check ECS Task Definition: Create a new revision of RakiBookery-task.<br>&emsp;+ Update ECS Service: Switched to created revision from Task Definition.<br>&emsp;+ Check ECS Status: Confirm that the task was running.<br>&emsp;+ Check Target Group: Verify the status to be Healthy.<br>&emsp;+ Test the Website: Access the website through the ALB DNS name.<br>- Learn **Functional Programming Concepts in Python** course in Codefinity<br>&emsp;+ Packing and Unpacking in Python.<br>&emsp;+ Higher-Order Functions and Lambdas.<br>&emsp;+ Variable Scope, Nested Functions and Closures. | 28/10/2026 | 28/10/2026 |  |
 | 5 |  | 29/10/2026 | 29/10/2026 |  |
 | 6 | - Deploy the process of connecting PHP Web with RDS for the RakiBookery project<br>&emsp;+ Fix CSS errors on the website using the CloudFront link.<br>&emsp;+ Use Docker and Amazon ECR to prepare the SQL data import process.<br>&emsp;+ Create an ECS Task to import SQL data using AWS Secrets Manager.<br>&emsp;+ Use CloudWatch Logs to verify the imported data.<br>&emsp;+ Update the Docker image, configure PHP database connectivity and deploy the application to ECS Fargate.<br>&emsp;+ Test the website through CloudFront, including product search, filtering and sorting. | 30/10/2026 | 30/10/2026 |  |
+| 7 | - Join **FCAJ - Community Day 31/10** event in person. | 31/10/2026 | 31/10/2026 | [Community Day 31/10](https://youtu.be/qRSxBAPYttM) |
 
 ### Week 17 Achievements:
 

@@ -29,3 +29,14 @@ Trong quá trình thực tập, em đã tham gia 3 events, với mỗi event là
 &emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh.
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự.
+
+---
+
+### [Event 3](4.3-Event3/)
+&emsp;**Tên sự kiện:** FCAJ - Community Day 31/10.
+
+&emsp;**Thời gian:** 09:00 ngày 31/10/2026.
+
+&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh.
+
+&emsp;**Vai trò trong sự kiện:** Người tham dự.
