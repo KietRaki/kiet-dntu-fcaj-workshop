@@ -13,7 +13,7 @@ pre: " <b> 1.18. </b> "
 |:---:|---|:---:|:---:|---|
 | 2 |  | 02/11/2026 | 02/11/2026 |  |
 | 3 | - Work on fixing and testing the PayPal payment function for the RakiBookery project<br>&emsp;+ Check the PayPal Sandbox configuration on AWS ECS and identified environment variable issues.<br>&emsp;+ Review the IAM Role and update permissions for Parameter Store and Secrets Manager.<br>&emsp;+ Create new Task Definition revision and update PayPal Sandbox settings.<br>&emsp;+ Test the PayPal and Debit or Credit Card payment buttons.<br>&emsp;+ Test payments using PayPal Balance and a Visa card. | 03/11/2026 | 03/11/2026 |  |
-| 4 |  | 04/11/2026 | 04/11/2026 |  |
+| 4 | - Practice the lab **NoSQL Database Essentials with Amazon DynamoDB**<br>&emsp;+ Learn how to create and manage DynamoDB tables using AWS Management Console and AWS CloudShell.<br>&emsp;+ Practice adding, reading, updating, deleting and querying data using AWS CLI.<br>&emsp;+ Learn how to create and use Global Secondary Indexes for data queries.<br>&emsp;+ Configure Python, AWS CLI and Boto3 to connect to DynamoDB.<br>&emsp;+ Use Python and Boto3 to perform CRUD operations, load sample data and scan table data. | 04/11/2026 | 04/11/2026 | [Work with Amazon DynamoDB](https://000060.awsfcaj.com/) |
 | 5 |  | 05/11/2026 | 05/11/2026 |  |
 | 6 |  | 06/11/2026 | 06/11/2026 |  |
 
@@ -23,3 +23,8 @@ pre: " <b> 1.18. </b> "
 <br>&emsp;&emsp;○ Configured PayPal Sandbox on ECS and successfully accessed the payment interface.
 <br>&emsp;&emsp;○ Successfully displayed the PayPal and Debit or Credit Card payment options.
 <br>&emsp;&emsp;○ Identified an order-saving error after payment and duplicate PayPal options that still need to be fixed.
+
+&emsp;◉ Wednesday:
+<br>&emsp;&emsp;○ Understood how to create and manage data in Amazon DynamoDB.
+<br>&emsp;&emsp;○ Knew how to use AWS CLI and Boto3 to interact with databases.
+<br>&emsp;&emsp;○ Practiced CRUD operations, Query, Scan and Global Secondary Indexes.
