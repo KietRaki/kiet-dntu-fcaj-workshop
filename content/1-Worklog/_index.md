@@ -19,5 +19,5 @@ In the internship program, I will explore and practice AWS services related to D
 |---|---|---|---|
 | **Week 13:** [Week 13 tasks](1.13-week13/) | **Week 17:** [Week 17 tasks](1.17-week17/) |  |
 | **Week 14:** [Week 14 tasks](1.14-week14/) | **Week 18:** [Week 18 tasks](1.18-week18/) |  |
-| **Week 15:** [Week 15 tasks](1.15-week15/) |  |  |
+| **Week 15:** [Week 15 tasks](1.15-week15/) | **Week 19:** [Week 19 tasks](1.19-week19/) |  |
 | **Week 16:** [Week 16 tasks](1.16-week16/) |  |  |
