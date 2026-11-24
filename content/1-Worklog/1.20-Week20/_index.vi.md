@@ -8,6 +8,10 @@ pre: " <b> 1.20. </b> "
 
 ### Mục tiêu tuần 20:
 
+* Thực hành bảo mật website bằng AWS WAF, CloudFront và S3, phát hiện và ngăn chặn các cuộc tấn công SQL Injection.
+* Tìm hiểu cách quản lý máy chủ EC2, cập nhật hệ điều hành và thực thi lệnh từ xa bằng AWS Systems Manager.
+* Thực hành sao lưu, khôi phục và tự động hóa thông báo bằng AWS Backup, SNS và Lambda.
+
 ### Các công việc đã làm trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 |:---:|---|:---:|:---:|---|

@@ -8,6 +8,10 @@ pre: " <b> 1.20. </b> "
 
 ### Week 20 Objectives:
 
+* Practice securing websites using AWS WAF, CloudFront, and S3, including detecting and blocking SQL Injection attacks.
+* Learn to manage EC2 instances, update operating systems, and execute remote commands using AWS Systems Manager.
+* Practice data backup, recovery, and automated notifications using AWS Backup, SNS, and Lambda.
+
 ### Tasks completed this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |:---:|---|:---:|:---:|---|
