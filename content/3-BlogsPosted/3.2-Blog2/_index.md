@@ -81,7 +81,7 @@ In addition, I practiced using AWS Backup to manage backup activities for Redshi
 
 ## Conclusion
 
-After completing the lab, I can confirm that building a data warehouse system on AWS can bring many benefits when developing websites or applications that handle large amounts of data. Instead of only storing and querying data directly from the application database, businesses can use a data warehouse to centralize data, run analytical queries and support decision-making.
+After completing the lab, I can confirm that building a data warehouse system on AWS can bring many benefits when developing websites or applications that handle large amounts of data.
 
 This lab gave me a more practical understanding of how AWS services work together in a data system. Through this experience, I want to continue learning about Data Analytics and not stop there. I also want to explore Data Engineering so I can apply what I have learned to real projects in the future.
 

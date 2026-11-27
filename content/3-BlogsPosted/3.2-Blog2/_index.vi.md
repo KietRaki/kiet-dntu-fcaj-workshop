@@ -81,9 +81,9 @@ Ngoài ra, tôi thực hành sử dụng AWS Backup để quản lý hoạt đ�
 
 ## Kết luận
 
-Sau khi hoàn thành bài lab, tôi có thể khẳng định rằng việc xây dựng một hệ thống kho dữ liệu trên AWS có thể mang lại nhiều lợi ích khi phát triển các trang web hoặc ứng dụng có lượng dữ liệu lớn trong database. Thay vì chỉ lưu trữ và truy vấn dữ liệu trực tiếp từ database của ứng dụng, doanh nghiệp có thể sử dụng kho dữ liệu để tập trung dữ liệu, thực hiện các truy vấn phân tích và hỗ trợ quá trình đưa ra quyết định.
+Sau khi hoàn thành bài lab, tôi có thể khẳng định rằng việc xây dựng một hệ thống kho dữ liệu trên AWS có thể mang lại nhiều lợi ích khi phát triển các trang web hoặc ứng dụng có lượng dữ liệu lớn trong database.
 
-Bài lab giúp tôi có cái nhìn thực tế hơn về cách các dịch vụ AWS phối hợp với nhau trong một hệ thống dữ liệu. Qua đó, tôi muốn tiếp tục tìm hiểu về Data Analytics, nhưng không chỉ dừng lại ở đó mà còn có Data Engineering để có thể áp dụng những kiến thức đã học vào các dự án thực tế trong tương lai.
+Bài lab giúp tôi có cái nhìn thực tế hơn về cách các dịch vụ AWS phối hợp với nhau trong một hệ thống dữ liệu. Qua đó, tôi muốn tiếp tục tìm hiểu về Data Analytics, nhưng không chỉ dừng lại ở đó mà còn có Data Engineering để có thể áp dụng những kiến thức đã học vào các dự án thực tế trong tương lai tới.
 
 Tôi khuyến khích những bạn đang học AWS hoặc muốn tìm hiểu về Data Analytics hay Engineering nên thử thực hiện bài lab này. Bài thực hành có thể giúp các bạn làm quen với Amazon Redshift Serverless, S3, IAM, Glue và CloudWatch thông qua một quy trình xử lý dữ liệu tương đối hoàn chỉnh.
 
